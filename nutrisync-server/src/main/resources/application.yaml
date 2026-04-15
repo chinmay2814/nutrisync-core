@@ -1,3 +1,5 @@
 spring:
   application:
     name: nutrisync
+server:
+  port: 8081
